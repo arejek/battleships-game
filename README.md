@@ -10,3 +10,15 @@ goes down. You have to outrace the computer in sinking ships.
 
 If you want to play, download the files, in file main.py change the filepath in line 615 to the path of the downloaded 
 background picture on your computer. Then simply run main.py (make sure you have Python installed on your computer).
+
+## How the game looks
+
+![game start picture](./images/screenshot1.PNG)
+
+![user selects their ships](./images/screenshot2.PNG)
+
+![game](./images/screenshot3.PNG)
+
+![victory](./images/screenshot4.PNG)
+
+![defeat](./images/screenshot5.PNG)
